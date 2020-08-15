@@ -1,0 +1,11 @@
+body{
+	background-color: green;
+	font-style: bold;
+}
+
+
+
+p{
+	border: 2px dashed white;
+	margin-bottom: 15px;
+}
